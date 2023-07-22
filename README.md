@@ -1,1 +1,0 @@
-# equiply_website
